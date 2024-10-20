@@ -9,4 +9,4 @@
 
 ![db-image](cap2.PNG)
 
-[SQL-queries link](dbcreation_hw2.sql)
+[SQL-queries link](dbemployees_hw2.sql)
