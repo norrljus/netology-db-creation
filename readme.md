@@ -2,11 +2,8 @@
 
 ![db-image](cap1.PNG)
 
-[SQL-queries link](dbcreation_hw2.sql)
+[CREATE]([dbcreation_hw2.sql](https://github.com/norrljus/netology-db-creation/blob/main/CREATEqueries_hw3.sql))
 
----
-### Optional
+[INSERT]([dbcreation_hw2.sql](https://github.com/norrljus/netology-db-creation/blob/main/CREATEqueries_hw3.sql))
 
-![db-image](cap2.PNG)
-
-[SQL-queries link](dbemployees_hw2.sql)
+[SELECT]([dbcreation_hw2.sql](https://github.com/norrljus/netology-db-creation/blob/main/CREATEqueries_hw3.sql))
