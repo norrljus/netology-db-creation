@@ -18,18 +18,18 @@ INSERT INTO albums(name, year) VALUES ('Twin Fantasy', 2011);
 INSERT INTO albums(name, year) VALUES ('Be the Cowboy', 2018);
 
 
-INSERT INTO tracks(name, length, album) VALUES ('The Adults Are Talking', 5.10, 1);
-INSERT INTO tracks(name, length, album) VALUES ('Selfless', 3.43, 1);
-INSERT INTO tracks(name, length, album) VALUES ('Brooklyn Bridge To Chorus', 3.56, 1);
-INSERT INTO tracks(name, length, album) VALUES ('Kissing The Lipless', 3.19, 2);
-INSERT INTO tracks(name, length, album) VALUES ('Mine is Not a High Horse', 3.20, 2);
-INSERT INTO tracks(name, length, album) VALUES ('Animals', 3.15, 3);
-INSERT INTO tracks(name, length, album) VALUES ('Our Story', 5.11, 3);
-INSERT INTO tracks(name, length, album) VALUES ('Sober to Death', 5.05, 4);
-INSERT INTO tracks(name, length, album) VALUES ('Bodys', 6.47, 4);
-INSERT INTO tracks(name, length, album) VALUES ('Me and My Husband', 2.18, 5);
-INSERT INTO tracks(name, length, album) VALUES ('Nobody', 3.14, 5);
-INSERT INTO tracks(name, length, album) VALUES ('Washing Machine Heart', 2.09, 5);
+INSERT INTO tracks(name, length, album) VALUES ('The Adults Are Talking', '00:05:10', 1);
+INSERT INTO tracks(name, length, album) VALUES ('Selfless', '00:03:43', 1);
+INSERT INTO tracks(name, length, album) VALUES ('Brooklyn Bridge To Chorus', '00:03:56', 1);
+INSERT INTO tracks(name, length, album) VALUES ('Kissing The Lipless', '00:03:19', 2);
+INSERT INTO tracks(name, length, album) VALUES ('Mine is Not a High Horse', '00:03:20', 2);
+INSERT INTO tracks(name, length, album) VALUES ('Animals', '00:03:15', 3);
+INSERT INTO tracks(name, length, album) VALUES ('Our Story', '00:05:11', 3);
+INSERT INTO tracks(name, length, album) VALUES ('Sober to Death', '00:05:05', 4);
+INSERT INTO tracks(name, length, album) VALUES ('Bodys', '00:06:47', 4);
+INSERT INTO tracks(name, length, album) VALUES ('Me and My Husband', '00:02:18', 5);
+INSERT INTO tracks(name, length, album) VALUES ('Nobody', '00:03:14', 5);
+INSERT INTO tracks(name, length, album) VALUES ('Washing Machine Heart', '00:02:09', 5);
 
 
 INSERT INTO collections(name, year) VALUES ('Alternative Rock', 2021);
